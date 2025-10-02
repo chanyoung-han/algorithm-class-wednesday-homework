@@ -1,1 +1,2 @@
-# algorithm-class-wednesday-homework
+이 프로그램은 정수 n의 팩토리얼(n!)을 계산하는 간단한 콘솔 애플리케이션입니다.
+계산 방식으로는 반복(iteration)과 재귀(recursion) 두 가지가 있으며, 사용자는 메뉴를 통해 두 방식의 실행 결과를 비교할 수 있습니다.
